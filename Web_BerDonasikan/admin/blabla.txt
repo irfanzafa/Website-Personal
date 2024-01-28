@@ -1,0 +1,9 @@
+                <br>
+                <iframe src="../filemodul1/<?php echo "$rm[filemodul]"; ?>"></iframe>
+                <hr>
+                <h3 class='edukasi-menu-title'>-- <?php echo "$rm[judul]"; ?> --</h3>
+                <hr>
+                <p class='edukasi-menu-detail'> <?php echo "$rm[keterangan]"; ?> </p>
+                <hr>
+                <small><i>Dibuat pada <?php echo "$rm[tgluploadfile]"; ?> WIB
+                <br>oleh <?php echo "$rm[dibuatoleh]"; ?></i></small>";
